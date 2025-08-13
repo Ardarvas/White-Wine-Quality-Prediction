@@ -64,3 +64,5 @@ class, suggesting that class imbalance and overlapping feature distributions pos
 
 - `winequality.ipynb`: Main Jupyter Notebook with full analysis and model training
 - `README.md`: Project overview 
+- `Wine_Quality-Explainable AI(XAI).ipynb`:  Jupyter Notebook performing explainability analysis with SHAP, PDPs, and feature importance.
+- `Explainability_Report.pdf`: Detailed report on model explainability using SHAP, Permutation Importance, and Partial Dependence Plots (PDP).
